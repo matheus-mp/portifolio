@@ -1,0 +1,15 @@
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.AssemblyInfoInputs.cache
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.AssemblyInfo.cs
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.csproj.CoreCompileInputs.cache
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.sourcelink.json
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/bin/Debug/net10.0/arrays
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/bin/Debug/net10.0/arrays.deps.json
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/bin/Debug/net10.0/arrays.runtimeconfig.json
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/bin/Debug/net10.0/arrays.dll
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/bin/Debug/net10.0/arrays.pdb
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.dll
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/refint/arrays.dll
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.pdb
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/arrays.genruntimeconfig.cache
+/home/info/Documents/Desenvolvimento-Web-III/C#/arrays/obj/Debug/net10.0/ref/arrays.dll

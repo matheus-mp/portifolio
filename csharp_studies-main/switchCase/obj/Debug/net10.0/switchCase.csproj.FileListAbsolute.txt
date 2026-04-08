@@ -1,0 +1,15 @@
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/bin/Debug/net10.0/switchCase
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/bin/Debug/net10.0/switchCase.deps.json
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/bin/Debug/net10.0/switchCase.runtimeconfig.json
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/bin/Debug/net10.0/switchCase.dll
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/bin/Debug/net10.0/switchCase.pdb
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.AssemblyInfoInputs.cache
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.AssemblyInfo.cs
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.sourcelink.json
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.dll
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/refint/switchCase.dll
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.pdb
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/switchCase.genruntimeconfig.cache
+/home/matheus/Documentos/Desenvolvimento-Web-III/C#/switchCase/obj/Debug/net10.0/ref/switchCase.dll

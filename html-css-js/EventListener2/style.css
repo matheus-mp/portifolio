@@ -1,0 +1,19 @@
+* {
+    transition: all ease 0.2s;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+button:hover {
+    filter: brightness(70%);
+}

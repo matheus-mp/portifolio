@@ -1,0 +1,15 @@
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/bin/Debug/net10.0/ArraysTest
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/bin/Debug/net10.0/ArraysTest.deps.json
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/bin/Debug/net10.0/ArraysTest.runtimeconfig.json
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/bin/Debug/net10.0/ArraysTest.dll
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/bin/Debug/net10.0/ArraysTest.pdb
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.AssemblyInfoInputs.cache
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.AssemblyInfo.cs
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.csproj.CoreCompileInputs.cache
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.sourcelink.json
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.dll
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/refint/ArraysTest.dll
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.pdb
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ArraysTest.genruntimeconfig.cache
+/Users/matheuspires/RiderProjects/ArraysTest/ArraysTest/obj/Debug/net10.0/ref/ArraysTest.dll

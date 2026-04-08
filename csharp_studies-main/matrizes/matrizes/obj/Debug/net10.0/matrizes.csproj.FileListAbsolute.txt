@@ -1,0 +1,15 @@
+/Users/matheuspires/RiderProjects/matrizes/matrizes/bin/Debug/net10.0/matrizes
+/Users/matheuspires/RiderProjects/matrizes/matrizes/bin/Debug/net10.0/matrizes.deps.json
+/Users/matheuspires/RiderProjects/matrizes/matrizes/bin/Debug/net10.0/matrizes.runtimeconfig.json
+/Users/matheuspires/RiderProjects/matrizes/matrizes/bin/Debug/net10.0/matrizes.dll
+/Users/matheuspires/RiderProjects/matrizes/matrizes/bin/Debug/net10.0/matrizes.pdb
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.AssemblyInfoInputs.cache
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.AssemblyInfo.cs
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.csproj.CoreCompileInputs.cache
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.sourcelink.json
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.dll
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/refint/matrizes.dll
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.pdb
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/matrizes.genruntimeconfig.cache
+/Users/matheuspires/RiderProjects/matrizes/matrizes/obj/Debug/net10.0/ref/matrizes.dll

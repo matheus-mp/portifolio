@@ -1,0 +1,45 @@
+* {
+    white-space: pre-line;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    transition: all ease 0.3s;
+}
+
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(196, 190, 214)
+}
+
+.container {
+    background-color: rgb(246, 243, 255);
+    padding: 30px;
+    border-radius: 30px;
+}
+
+input {
+    width: 100%;
+    height: 20px;
+    border-radius: 10px;
+}
+
+label {
+    font-size: large;
+    font-weight: bold;
+}
+
+.button {
+    text-align: center;
+}
+
+button {
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(82, 61, 143);
+    color: rgb(246, 243, 255);;
+}
+
+button:hover {
+    filter: brightness(80%);
+}

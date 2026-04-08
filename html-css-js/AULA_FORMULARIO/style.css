@@ -1,0 +1,21 @@
+html, body{
+    
+    margin:0%;
+}
+
+
+.ordem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0%;
+    min-height: 100vh;
+}
+
+#formCadastro{
+    display: flex;
+    flex-direction: column; /*  agora ordenar verticalmente. Se fosse horizontal, seria o row. */
+    gap: 10px;              /*  agora funciona vertical */
+    align-items: center;
+}
+

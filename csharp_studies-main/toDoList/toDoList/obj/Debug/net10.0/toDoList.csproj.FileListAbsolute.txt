@@ -1,0 +1,15 @@
+/Users/matheuspires/RiderProjects/toDoList/toDoList/bin/Debug/net10.0/toDoList
+/Users/matheuspires/RiderProjects/toDoList/toDoList/bin/Debug/net10.0/toDoList.deps.json
+/Users/matheuspires/RiderProjects/toDoList/toDoList/bin/Debug/net10.0/toDoList.runtimeconfig.json
+/Users/matheuspires/RiderProjects/toDoList/toDoList/bin/Debug/net10.0/toDoList.dll
+/Users/matheuspires/RiderProjects/toDoList/toDoList/bin/Debug/net10.0/toDoList.pdb
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.AssemblyInfoInputs.cache
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.AssemblyInfo.cs
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.csproj.CoreCompileInputs.cache
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.sourcelink.json
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.dll
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/refint/toDoList.dll
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.pdb
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/toDoList.genruntimeconfig.cache
+/Users/matheuspires/RiderProjects/toDoList/toDoList/obj/Debug/net10.0/ref/toDoList.dll
