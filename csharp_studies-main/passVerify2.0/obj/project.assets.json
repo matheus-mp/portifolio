@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/matheuspires/.nuget/packages/": {}
+    "/home/matheus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/passVerify2.0/C#.csproj",
+      "projectUniqueName": "/home/matheus/Documentos/csharp_studies/passVerify2.0/C#.csproj",
       "projectName": "C#",
-      "projectPath": "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/passVerify2.0/C#.csproj",
-      "packagesPath": "/Users/matheuspires/.nuget/packages/",
-      "outputPath": "/Users/matheuspires/Documents/Desenvolvimento-Web-III/C#/passVerify2.0/obj/",
+      "projectPath": "/home/matheus/Documentos/csharp_studies/passVerify2.0/C#.csproj",
+      "packagesPath": "/home/matheus/.nuget/packages/",
+      "outputPath": "/home/matheus/Documentos/csharp_studies/passVerify2.0/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/matheuspires/.nuget/NuGet/NuGet.Config"
+        "/home/matheus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

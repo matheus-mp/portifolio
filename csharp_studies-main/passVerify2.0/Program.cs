@@ -34,25 +34,20 @@ namespace passVerifies
                     if (char.IsUpper(c))
                     {
                         upperCase = true;
-                        break;
                     } else if (char.IsLower(c))
                     {
                         lowerCase = true;
-                        break;
                     } else if (char.IsNumber(c))
                     {
                         num = true;
-                        break;
                     } else if (!char.IsLetterOrDigit(c))
                     {
                         special = true;
-                        break;
                     } 
                     
                     if (char.IsWhiteSpace(c))
                     {
                         noSpace = false;
-                        break;
                     }
                 }
 
@@ -91,7 +86,7 @@ namespace passVerifies
 
                     pass = null;
 
-
+                    
                 }
             }
         }
